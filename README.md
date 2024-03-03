@@ -6,6 +6,9 @@
 
 **The owner wants you to do some analysis on data with these criteria's:**
 
+**Based on the business need, requirement to address the business question, draw attention to the data's insightful information, offer recommendations, and support a wise decision, I will analyze some data using the following specific business criteria:**
+
+
 
     **-calculate the total price average for all products**
 
